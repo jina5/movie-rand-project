@@ -88,7 +88,7 @@
 </template>
 
 <script>
-const API_URL = "http://localhost:8000";
+const API_URL = "https://movierand.online";
 import TopMovieList from "@/components/TopMovieList";
 import axios from "axios";
 import { VueperSlides, VueperSlide } from "vueperslides";

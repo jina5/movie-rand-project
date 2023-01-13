@@ -54,7 +54,7 @@
 </template>
 
 <script>
-const API_URL = "http://localhost:8000";
+const API_URL = "https://movierand.online";
 import axios from "axios";
 import _ from "lodash";
 import ReviewList from "@/components/ReviewList.vue";

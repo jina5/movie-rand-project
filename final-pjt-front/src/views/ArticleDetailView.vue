@@ -49,7 +49,7 @@
 <script>
 import axios from "axios";
 import _ from "lodash";
-const API_URL = "http://localhost:8000";
+const API_URL = "https://movierand.online";
 import CommentListItem from '@/components/CommentListItem.vue'
 export default {
   name: "ArticleDetailView",

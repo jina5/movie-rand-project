@@ -11,7 +11,7 @@
 <script>
 import CommentListItem from "@/components/CommentListItem";
 import axios from 'axios'
-const API_URL = "http://localhost:8000"
+const API_URL = "https://movierand.online"
 
 export default {
   name: "CommentList",

@@ -22,7 +22,7 @@
 <script>
 import ReviewListItem from "@/components/ReviewListItem";
 import axios from 'axios'
-const API_URL = "http://localhost:8000"
+const API_URL = "https://movierand.online"
 
 export default {
   name: "ReviewList",

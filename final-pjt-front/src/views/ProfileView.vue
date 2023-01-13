@@ -266,7 +266,7 @@
 
 <script>
 import axios from "axios";
-const API_URL = "http://localhost:8000";
+const API_URL = "https://movierand.online";
 import MovieList from "@/components/MovieList.vue";
 import TalkLeftItem from "@/components/TalkLeftItem.vue";
 import TalkRightItem from "@/components/TalkRightItem.vue";

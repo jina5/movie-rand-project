@@ -41,7 +41,7 @@
 import _ from "lodash";
 import axios from "axios";
 import RecommentList from "@/components/RecommentList.vue";
-const API_URL = "http://localhost:8000";
+const API_URL = "https://movierand.online";
 
 export default {
   name: "CommentListItem",

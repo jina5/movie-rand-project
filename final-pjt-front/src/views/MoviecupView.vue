@@ -35,7 +35,7 @@
 </template>
 
 <script>
-const API_URL = "http://localhost:8000";
+const API_URL = "https://movierand.online";
 import axios from "axios";
 import MoviecupListItem from "@/components/MoviecupListItem.vue";
 

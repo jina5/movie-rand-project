@@ -9,7 +9,7 @@ Vue.use(BootstrapVue)
 Vue.use(BootstrapVueIcons)
 Vue.use(Vuex);
 
-const API_URL = "http://localhost:8000"
+const API_URL = "https://movierand.online"
 
 export default new Vuex.Store({
   state: {
